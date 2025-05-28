@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+# test projects for visual studio 2010 and  2022
+op/
+op2022/
