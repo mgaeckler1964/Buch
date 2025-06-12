@@ -1,3 +1,4 @@
+// lambda.cpp: demo for lanbdaexpressions
 #include <iostream>
 
 template <typename TYPE>
